@@ -1,7 +1,11 @@
 .
 |-- README.md
-|-- Thumbs.db
-|-- flat.png
+|-- assets
+|   `-- cat.jpg
+|-- components
+|   `-- nav.php
+|-- css
+|   `-- styles.css
 `-- index.php
 
-0 directories, 4 files
+3 directories, 5 files
